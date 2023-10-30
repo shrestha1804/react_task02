@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+ 
+  width: 100%;
+position: absolute ;
+  height:500px;
+  background-image: linear-gradient(to right, rgb(3, 196, 255) , rgb(0, 255, 140));
+  
+  
+}
+h1{
+  color: rgb(6, 32, 54);
+  padding-bottom: 0px;
+}
+.box{
+  margin: auto;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 1px black solid;
+  width:fit-content;
+ background-color:  rgb(2, 8, 80);
+ height: 300px;
+
+}
+.butt:hover{
+  color: aqua;
+}
+.butt1{
+  padding-left: 10px;
+  background-color:  rgb(2, 8, 80);
+  color: white;
+  border:0px solid;
+  cursor: pointer;
+  
+}
+
+.butt{
+  padding-left: 10px;
+  padding-right: 20px;
+  background-color:  rgb(2, 8, 80);
+  color: white;
+  border:0px solid;
+  cursor: pointer;
+}
+.key{
+  display: flex;
+  /* padding: 10px; */
+  /* border:1px red solid; */
+  padding-top: 20px ;
+  width:145px;
+  margin:15px;
+  margin-top: 5px;
+}
+.calspace{
+  width:160px;
+  height: 50px;
+  background-color: rgb(8, 17, 113);
+  color: white;
+}
+.space{
+  margin:15px;
+  width:fit-content;
+}
+
